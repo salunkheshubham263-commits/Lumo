@@ -1,4 +1,5 @@
 Lumo – Animated Gadget Website UI
+
 Lumo is a modern, design-focused gadget website UI built using HTML, CSS, JavaScript, and GSAP.
 This project focuses on visual design, smooth animations, and responsive layout, not backend functionality.
 
