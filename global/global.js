@@ -74,7 +74,7 @@ if (document.body.classList.contains("loading")) {
   about.forEach(link => {
     link.addEventListener("click", function(e) {
       e.preventDefault();
-      window.location.href = "../templates/about.html";
+      window.location.href = "about.html";
     });
   });
 
@@ -95,7 +95,7 @@ if (document.body.classList.contains("about")) {
   const back = document.querySelector(".back");
   if (back) {
     back.addEventListener("click", () => {
-      window.location.href = "../templates/home.html";
+      window.location.href = "home.html";
     });
   }
 }
