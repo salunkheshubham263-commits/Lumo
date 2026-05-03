@@ -1,7 +1,3 @@
-Nice — now that it’s live, your project is officially **portfolio-ready**. Let’s give it a proper README that actually looks impressive on GitHub.
-
-You can copy-paste this directly into your `README.md` 👇
-
 ---
 
 # 🚀 Lumo – Animated Gadget Website UI
@@ -63,7 +59,7 @@ The project focuses on **smooth animations, responsive design, and interactive U
 
 ## 📁 Project Structure
 
-
+```bash
 Lumo/
 │── templates/
 │   ├── index.html
@@ -72,9 +68,13 @@ Lumo/
 │   │   ├── global.css
 │   │   ├── global.js
 │   ├── images/
+```
 
-⚙️ How to Run Locally
+---
 
+## ⚙️ How to Run Locally
+
+```bash
 # Clone the repository
 git clone https://github.com/salunkheshubham263-commits/Lumo.git
 
@@ -83,8 +83,9 @@ cd Lumo
 
 # Run the project
 Open templates/index.html in your browser
+```
 
-
+---
 
 ## 🎯 Purpose of the Project
 
@@ -125,3 +126,5 @@ GitHub: [https://github.com/salunkheshubham263-commits](https://github.com/salun
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
+* Add **GIF preview of your site**
+* Or rewrite this as a **top-tier portfolio README (the kind that stands out in interviews)** 🔥
