@@ -885,3 +885,40 @@ body.about .main{
     font-size: 0.98rem;
   }
 }
+@media (max-height: 500px) and (orientation: landscape) {
+
+  .hero1 {
+    flex-direction: row;
+    height: auto;
+  }
+
+  .left, .right {
+    width: 50%;
+    height: auto;
+  }
+
+  .left h1 {
+    font-size: 4vw;
+    padding: 10px;
+  }
+
+  .explore-btn {
+    font-size: 1.5vw;
+    margin: 10px;
+  }
+
+  .featured_product {
+    flex-direction: row;
+    height: auto;
+  }
+
+  #top {
+    width: 30%;
+  }
+
+  .hero2,
+  .hero3,
+  .hero4 {
+    height: auto;
+  }
+}
