@@ -95,7 +95,7 @@ if (document.body.classList.contains("about")) {
   const back = document.querySelector(".back");
   if (back) {
     back.addEventListener("click", () => {
-      window.location.href = "home.html";
+      window.location.href = "index.html";
     });
   }
 }
